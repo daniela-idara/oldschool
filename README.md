@@ -1,4 +1,4 @@
-1990dschool
+#oldSchool
 
 I found my old domain (stay-monkey.net -- named after a song by Bikini Kill frontwoman, Kathleen Hanna aka Julie Ruin)through the <a href="https://web.archive.org/web/sitemap/http://stay-monkey.net" target="new">Wayback Machine</a> and was surprised to see some of my old layouts.
 
@@ -8,5 +8,7 @@ This was a great way to learn web design, blog layout, digital imaging and FTP s
 
 A little bit of nostalgia writing this as it was WAYYY before MySpace, Facebook, etc. In the late 1990's / early 2000's you either had a geocities/angelfire page or you figured out how to make a cool one.
 
+
+- Daniela A.
 
 
