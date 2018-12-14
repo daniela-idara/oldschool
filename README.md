@@ -12,6 +12,4 @@ A little bit of nostalgia writing this as it was WAYYY before MySpace, Facebook,
 <a href="https://daniela-idara.github.io/oldschool/index.html" target="_blank">Here is the link to the site</a>.
 
 
-- Daniela A.
-
 
