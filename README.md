@@ -8,6 +8,9 @@ This was a great way to learn web design, blog layout, digital imaging and FTP s
 
 A little bit of nostalgia writing this as it was WAYYY before MySpace, Facebook, etc. In the late 1990's / early 2000's you either had a geocities/angelfire page or you figured out how to make a cool one.
 
+<br>
+<a href="https://daniela-idara.github.io/oldschool/index.html" target="_blank">Here is the link to the site</a>.
+
 
 - Daniela A.
 
